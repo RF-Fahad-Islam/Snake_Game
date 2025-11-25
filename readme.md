@@ -33,7 +33,7 @@ pip install pygame
 3. Run the game:
 
 ```bash
-python snake_game.py
+python snake2.py
 ```
 
 ## License
